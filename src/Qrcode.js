@@ -3,7 +3,7 @@ import React from "react";
 import QRCode from "react-qr-code";
 
 export default function FixedQR() {
-  const link = "https://improve-my-city-frontend-r5qi.vercel.app";
+  const link = "https://verifiednullclasscertificate.netlify.app/";
 
   return (
     <div style={styles.container}>
